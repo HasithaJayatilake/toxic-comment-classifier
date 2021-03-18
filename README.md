@@ -1,5 +1,6 @@
-# toxic-comment-classifier
-Kaggle project - text classifier to identify toxic comments on Wikipedia’s talk page
+# Toxic Comment Classifier
+Kaggle project - text classifier to identify toxic comments on Wikipedia’s talk page.
+Original dataset and problem description available at Kaggle (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 ## Requirements:
 - python 3.8
