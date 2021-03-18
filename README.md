@@ -8,6 +8,6 @@ Kaggle project - text classifier to identify toxic comments on Wikipedia’s tal
 
 ## For running the script
 1. console command to run the python script :
-	python Project2_Script.py
+	python ToxicCommentClassifiers.py
 
 2. Follow command line instructions.
